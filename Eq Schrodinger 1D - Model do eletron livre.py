@@ -22,7 +22,7 @@ typem = np.float64
 #>>>>>>>>>>>>>>>>>>>>GRID<<<<<<<<<<<<<<<<<<<
 #===========================================
 
-N = 1000                                # Números de pontos em x (pontos na grid)
+N = 10000                                # Números de pontos em x (pontos na grid)
 xmin, xmax = (-200.,200.)
 L = 100.                                # Tamanho do poço - angstrom
 L_admensional  = L/A0                   # Tamanho do poço - adimensional
